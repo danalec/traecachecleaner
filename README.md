@@ -14,9 +14,6 @@ Illustration:
 
 ![Figma login cookie accept leading to "Service is unavailable"](assets/figma-login-issue.png)
 
-If the image above does not load on GitHub, save the screenshot to:
-`assets/figma-login-issue.png` (relative to this repository)
-
 ### How the script helps
 - Removes cookie files that can keep an inconsistent/broken login state.
 - Optionally deletes Local Storage and IndexedDB entries that may conflict with new sessions.
