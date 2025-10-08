@@ -14,9 +14,6 @@ Trae（ソロモード）内で Figma にログインする際、クッキーバ
 
 ![Figma のクッキー許可後に "Service is unavailable" が表示される例](assets/figma-login-issue.png)
 
-GitHub で画像が表示されない場合は、次のパスにスクリーンショットを保存してください：
-`assets/figma-login-issue.png`（このリポジトリからの相対パス）
-
 ### スクリプトの効果
 - 不整合／破損したログイン状態を保持してしまうクッキーファイルを削除します。
 - 必要に応じて、Local Storage と IndexedDB を削除し、新しいセッションと競合しないようにします。
