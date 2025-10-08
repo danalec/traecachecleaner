@@ -14,9 +14,6 @@ Ilustração:
 
 ![Aceitar cookies no Figma levando a "Service is unavailable"](assets/figma-login-issue.png)
 
-Se a imagem acima não carregar no GitHub, salve a captura de tela em:
-`assets/figma-login-issue.png` (relativo a este repositório)
-
 ### Como o script ajuda
 - Remove arquivos de cookies que podem manter um estado de login inconsistente/quebrado.
 - Opcionalmente exclui entradas de Local Storage e IndexedDB que podem conflitar com novas sessões.
